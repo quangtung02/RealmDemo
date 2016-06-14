@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RealmDemo</string>
+
+    <string name="edit_text_hint_id">Id</string>
+    <string name="edit_text_hint_title">Title</string>
+    <string name="edit_text_hint_name">Name</string>
+    <string name="button_add">Add</string>
+    <string name="button_show">Show</string>
+</resources>
